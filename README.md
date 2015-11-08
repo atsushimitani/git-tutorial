@@ -1,3 +1,4 @@
 # Gitチュートリアル
- - feature-Z
+ - feature-A
  - fix-B
+ - feature-C
